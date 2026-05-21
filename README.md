@@ -50,6 +50,16 @@ Building the runtime, orchestration, and reliability layer for autonomous AI age
 - [Everything is API](https://github.com/austindixson/everythingisapi) — Turn anything into an API.
 - [Money Burner](https://github.com/austindixson/money-burner) — Market making and copy-trading bot for Polymarket prediction markets with AI signal integration.
 
+### 🤗 HuggingFace Models & Datasets
+
+Training and releasing open models and datasets for the agent community.
+
+- [GLM-4.7 Flash Opus Reasoning (Q4_KM)](https://huggingface.co/austindixson/glm-4.7-flash-Opus-Reasoning-Q4_KM) — Quantized reasoning model, 30B, 51 downloads.
+- [GLM-4.7 Flash Opus Reasoning](https://huggingface.co/austindixson/glm-4.7-flash-Opus-Reasoning) — Full precision reasoning model, 30B, 15 downloads.
+- [Gemma-4-21B REAP Harness-Ready (Merged)](https://huggingface.co/austindixson/gemma-4-21b-reap-harness-ready-merged) — 21B parameter model, merged and ready for agent evaluation harnesses.
+- [Agent Dataset Hybrid v2](https://huggingface.co/datasets/austindixson/agent-dataset-hybrid-v2) — 45K rows of agent training data, 96 downloads.
+- [Agent Dataset Hybrid](https://huggingface.co/datasets/austindixson/agent-dataset-hybrid) — 42.5K rows of agent training data, 145 downloads.
+
 ### 📚 Education & Community
 
 - [OpenClaw Agent Masterclass](https://github.com/austindixson/openclaw-agent-masterclass) — Complete guide to setting up autonomous AI agents with OpenClaw.
@@ -76,4 +86,5 @@ Building the runtime, orchestration, and reliability layer for autonomous AI age
 ## 📫 Get in Touch
 
 - Twitter: [@agentic_austin](https://x.com/agentic_austin)
+- HuggingFace: [austindixson](https://huggingface.co/austindixson)
 - GitHub: [austindixson](https://github.com/austindixson)
